@@ -152,6 +152,8 @@
 			// 
 			AutoScaleDimensions = new SizeF(7F, 15F);
 			AutoScaleMode = AutoScaleMode.Font;
+			BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+			BackgroundImageLayout = ImageLayout.Stretch;
 			ClientSize = new Size(800, 450);
 			Controls.Add(button1);
 			Controls.Add(textBox4);
@@ -166,6 +168,7 @@
 			Icon = (Icon)resources.GetObject("$this.Icon");
 			Name = "CadastrarProfessor";
 			Text = "CadastrarProfessor";
+			Load += CadastrarProfessor_Load;
 			ResumeLayout(false);
 			PerformLayout();
 		}

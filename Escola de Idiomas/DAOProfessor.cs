@@ -43,5 +43,38 @@ namespace Escola_de_Idiomas
 				MessageBox.Show($"Algo deu errado\n\n {erro}");
 			}
 		}//fim do inserir
+		public string atualizarProfessor(int codigo, string campo, string novoDado)
+		{
+			try
+			{
+				string query = $"update professor set {campo} = '{novoDado}' where codigo = '{codigo}'";
+				//executar o comando
+
+				MySqlCommand sql = new MySqlCommand(query, this.conexao);
+				string resultado = "" + sql.ExecuteNonQuery();//comando da inserção no banco
+				return $"Atualizado com sucesso!\n\n{resultado}";
+			}
+			catch (Exception erro)
+			{
+				return $"Algo deu errado\n\n{erro}";
+			}
+		}
+
+		public string deletar(int codigo)
+		{
+			try
+			{
+				string query = $"delete from professor where codigo = '{codigo}'";
+				//executar o comando
+
+				MySqlCommand sql = new MySqlCommand(query, this.conexao);
+				string resultado = "" + sql.ExecuteNonQuery();//comando da inserção no banco
+				return $"Deletado com sucesso!\n\n{resultado}";
+			}
+			catch (Exception erro)
+			{
+				return $"Algo deu errado\n\n{erro}";
+			}
+		}
 	}
 }

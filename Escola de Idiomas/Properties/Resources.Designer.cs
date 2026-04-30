@@ -73,6 +73,16 @@ namespace Escola_de_Idiomas.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Copilot_20260430_144218 {
+            get {
+                object obj = ResourceManager.GetObject("Copilot_20260430_144218", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap horizonte_idiomas_resized {
             get {
                 object obj = ResourceManager.GetObject("horizonte_idiomas_resized", resourceCulture);

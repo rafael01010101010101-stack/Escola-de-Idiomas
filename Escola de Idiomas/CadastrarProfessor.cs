@@ -42,7 +42,7 @@ namespace Escola_de_Idiomas
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			if ((textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "" || textBox3.Text == "" || textBox4.Text == ""))
+			if ((textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "" || textBox4.Text == ""))
 			{
 				MessageBox.Show("Preencha todos os campos!");
 			}
@@ -66,5 +66,10 @@ namespace Escola_de_Idiomas
 			textBox3.Text = "";
 			textBox4.Text = "";
 		}//fim do método limpar
+
+		private void CadastrarProfessor_Load(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

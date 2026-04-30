@@ -46,7 +46,7 @@ namespace Escola_de_Idiomas
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			if ((textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "" || textBox3.Text == "" || textBox4.Text == "" || textBox5.Text == ""))
+			if ((textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "" || textBox4.Text == "" || textBox5.Text == ""))
 			{
 				MessageBox.Show("Preencha todos os campos!");
 			}
@@ -56,8 +56,9 @@ namespace Escola_de_Idiomas
 				string cpf = textBox2.Text;
 				string email = textBox3.Text;
 				string telefone = textBox4.Text;
-				DateTime dataNascimento = DateTime.Parse(textBox5.Text);
+			    DateTime dataNascimento = DateTime.Parse(textBox5.Text);
 				//inserir esses dados no banco
+				
 				this.aluno.Inserir(nome, cpf, email, telefone, dataNascimento);
 				//limpar os campos
 				LimparCampos();
@@ -72,5 +73,10 @@ namespace Escola_de_Idiomas
 			textBox4.Text = "";
 			textBox5.Text = "";
 		}//fim do método limpar
+
+		private void Cadastrar_Aluno_Load(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

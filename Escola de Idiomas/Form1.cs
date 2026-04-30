@@ -5,6 +5,9 @@ namespace Escola_de_Idiomas
 		Cadastrar_Aluno cadastrarAluno;
 		CadastrarProfessor cadastrarProfessor;
 		AtualizarAluno atualizarAluno;
+		AtualizarProfessor atualizarProfessor;
+		ExcluirAluno excluirAluno;
+		ExcluirProfessor excluirProfessor;
 
 		public Form1()
 		{
@@ -38,5 +41,23 @@ namespace Escola_de_Idiomas
 			atualizarAluno = new AtualizarAluno();
 			atualizarAluno.ShowDialog();
 		}// botão de atualizar aluno
+
+		private void button9_Click(object sender, EventArgs e)
+		{
+			atualizarProfessor = new AtualizarProfessor();
+			atualizarProfessor.ShowDialog();
+		}// botão de atualizar professor
+
+		private void button8_Click(object sender, EventArgs e)
+		{
+			excluirAluno = new ExcluirAluno();
+			excluirAluno.ShowDialog();
+		}
+
+		private void button10_Click(object sender, EventArgs e)
+		{
+			excluirProfessor = new ExcluirProfessor();
+			excluirProfessor.ShowDialog();
+		}
 	}
 }

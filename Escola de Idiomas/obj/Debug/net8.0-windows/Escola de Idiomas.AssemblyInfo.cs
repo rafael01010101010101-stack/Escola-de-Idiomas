@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Escola de Idiomas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+462711cf6462ffd331ae8ddfb04c7d3b3c60a051")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40077f5083eca9910c3b23fb682e4c0864ac10ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Escola de Idiomas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Escola de Idiomas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

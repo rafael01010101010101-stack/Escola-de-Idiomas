@@ -34,3 +34,6 @@ C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\D
 C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Cadastrar_Aluno.resources
 C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarProfessor.resources
 C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarAluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarProfessor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirAluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirProfessor.resources

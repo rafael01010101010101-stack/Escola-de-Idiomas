@@ -67,7 +67,7 @@ namespace Escola_de_Idiomas
 		{
 			try
 			{
-				string query = $"delete from autor where codigo = '{codigo}'";
+				string query = $"delete from aluno where codigo = '{codigo}'";
 				//executar o comando
 
 				MySqlCommand sql = new MySqlCommand(query, this.conexao);

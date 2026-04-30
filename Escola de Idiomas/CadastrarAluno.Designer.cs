@@ -48,7 +48,7 @@
 			label1.AutoSize = true;
 			label1.Font = new Font("Segoe UI", 15F);
 			label1.ForeColor = Color.OrangeRed;
-			label1.Location = new Point(303, 29);
+			label1.Location = new Point(290, 34);
 			label1.Margin = new Padding(5, 0, 5, 0);
 			label1.Name = "label1";
 			label1.Size = new Size(246, 28);
@@ -60,7 +60,7 @@
 			label2.AutoSize = true;
 			label2.Font = new Font("Segoe UI", 15F);
 			label2.ForeColor = Color.Black;
-			label2.Location = new Point(223, 118);
+			label2.Location = new Point(197, 108);
 			label2.Margin = new Padding(5, 0, 5, 0);
 			label2.Name = "label2";
 			label2.Size = new Size(70, 28);
@@ -70,7 +70,7 @@
 			// textBox1
 			// 
 			textBox1.Font = new Font("Segoe UI", 15F);
-			textBox1.Location = new Point(303, 112);
+			textBox1.Location = new Point(277, 102);
 			textBox1.Margin = new Padding(5, 6, 5, 6);
 			textBox1.Name = "textBox1";
 			textBox1.Size = new Size(302, 34);
@@ -80,7 +80,7 @@
 			// label3
 			// 
 			label3.AutoSize = true;
-			label3.Location = new Point(234, 179);
+			label3.Location = new Point(208, 169);
 			label3.Margin = new Padding(5, 0, 5, 0);
 			label3.Name = "label3";
 			label3.Size = new Size(49, 28);
@@ -89,7 +89,7 @@
 			// 
 			// textBox2
 			// 
-			textBox2.Location = new Point(303, 179);
+			textBox2.Location = new Point(277, 169);
 			textBox2.Name = "textBox2";
 			textBox2.Size = new Size(302, 34);
 			textBox2.TabIndex = 4;
@@ -98,7 +98,7 @@
 			// label4
 			// 
 			label4.AutoSize = true;
-			label4.Location = new Point(222, 248);
+			label4.Location = new Point(196, 238);
 			label4.Name = "label4";
 			label4.Size = new Size(71, 28);
 			label4.TabIndex = 5;
@@ -106,7 +106,7 @@
 			// 
 			// textBox3
 			// 
-			textBox3.Location = new Point(303, 245);
+			textBox3.Location = new Point(277, 235);
 			textBox3.Name = "textBox3";
 			textBox3.Size = new Size(302, 34);
 			textBox3.TabIndex = 6;
@@ -115,7 +115,7 @@
 			// label5
 			// 
 			label5.AutoSize = true;
-			label5.Location = new Point(205, 313);
+			label5.Location = new Point(179, 303);
 			label5.Name = "label5";
 			label5.Size = new Size(88, 28);
 			label5.TabIndex = 7;
@@ -123,7 +123,7 @@
 			// 
 			// textBox4
 			// 
-			textBox4.Location = new Point(303, 313);
+			textBox4.Location = new Point(277, 303);
 			textBox4.Name = "textBox4";
 			textBox4.Size = new Size(302, 34);
 			textBox4.TabIndex = 8;
@@ -132,7 +132,7 @@
 			// label6
 			// 
 			label6.AutoSize = true;
-			label6.Location = new Point(100, 384);
+			label6.Location = new Point(74, 374);
 			label6.Name = "label6";
 			label6.Size = new Size(193, 28);
 			label6.TabIndex = 9;
@@ -140,7 +140,7 @@
 			// 
 			// textBox5
 			// 
-			textBox5.Location = new Point(303, 378);
+			textBox5.Location = new Point(277, 368);
 			textBox5.Name = "textBox5";
 			textBox5.Size = new Size(302, 34);
 			textBox5.TabIndex = 10;
@@ -148,7 +148,7 @@
 			// 
 			// button1
 			// 
-			button1.Location = new Point(316, 449);
+			button1.Location = new Point(290, 439);
 			button1.Name = "button1";
 			button1.Size = new Size(266, 41);
 			button1.TabIndex = 11;
@@ -160,6 +160,8 @@
 			// 
 			AutoScaleDimensions = new SizeF(11F, 28F);
 			AutoScaleMode = AutoScaleMode.Font;
+			BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+			BackgroundImageLayout = ImageLayout.Stretch;
 			ClientSize = new Size(833, 523);
 			Controls.Add(button1);
 			Controls.Add(textBox5);
@@ -178,6 +180,7 @@
 			Margin = new Padding(5, 6, 5, 6);
 			Name = "Cadastrar_Aluno";
 			Text = "Cadastrar_Aluno";
+			Load += Cadastrar_Aluno_Load;
 			ResumeLayout(false);
 			PerformLayout();
 		}

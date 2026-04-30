@@ -144,6 +144,7 @@
 			button8.TabIndex = 8;
 			button8.Text = "Excluir Aluno";
 			button8.UseVisualStyleBackColor = true;
+			button8.Click += button8_Click;
 			// 
 			// button9
 			// 
@@ -155,6 +156,7 @@
 			button9.TabIndex = 9;
 			button9.Text = "Atualizar Professor";
 			button9.UseVisualStyleBackColor = true;
+			button9.Click += button9_Click;
 			// 
 			// button10
 			// 
@@ -166,6 +168,7 @@
 			button10.TabIndex = 10;
 			button10.Text = "Excluir Professor";
 			button10.UseVisualStyleBackColor = true;
+			button10.Click += button10_Click;
 			// 
 			// Form1
 			// 
