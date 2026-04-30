@@ -52,12 +52,12 @@ namespace Escola_de_Idiomas
 		{
 			excluirAluno = new ExcluirAluno();
 			excluirAluno.ShowDialog();
-		}
+		}// botão de excluir aluno
 
 		private void button10_Click(object sender, EventArgs e)
 		{
 			excluirProfessor = new ExcluirProfessor();
 			excluirProfessor.ShowDialog();
-		}
+		}// botão de excluir professor
 	}
 }

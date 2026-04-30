@@ -33,7 +33,8 @@ namespace Escola_de_Idiomas
 		{
 			try
 			{
-				this.dados = $"('', '{nome}', '{cpf}', '{email}', '{telefone}', '{dataNascimento}')";
+				string dataFormatada = dataNascimento.ToString("yyyy-MM-dd");
+				this.dados = $"('', '{nome}', '{cpf}', '{email}', '{telefone}', '{dataFormatada}')";
 				this.comando = $"Insert into aluno(codigo, nome, cpf, email, telefone, dtDeNascimento) values{this.dados}";
 				//Inserir comando
 				MySqlCommand sql = new MySqlCommand(this.comando, this.conexao);
