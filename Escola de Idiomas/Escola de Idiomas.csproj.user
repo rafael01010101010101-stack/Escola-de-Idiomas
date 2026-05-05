@@ -1,7 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="AdicionarCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdiconarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="AtualizarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AtualizarNotas.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="AtualizarProfessor.cs">
@@ -10,16 +19,40 @@
     <Compile Update="CadastrarAluno.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="CadastrarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="CadastrarProfessor.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ConsultarMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ExcluirAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExcluirCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExcluirNotas.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ExcluirProfessor.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notas.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

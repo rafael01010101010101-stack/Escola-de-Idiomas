@@ -74,6 +74,7 @@ namespace Escola_de_Idiomas
 			//Limpar os campos
 			textBox1.Text = "";
 			textBox2.Text = "";
+			textBox3.Text = "";
 			textBox4.Text = "";
 			textBox5.Text = "";
 			textBox6.Text = "";

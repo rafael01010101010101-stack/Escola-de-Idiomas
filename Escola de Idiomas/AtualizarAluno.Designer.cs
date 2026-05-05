@@ -200,7 +200,6 @@
 			Controls.Add(label1);
 			Icon = (Icon)resources.GetObject("$this.Icon");
 			Name = "AtualizarAluno";
-			Text = "AtualizarAluno";
 			Load += AtualizarAluno_Load;
 			ResumeLayout(false);
 			PerformLayout();

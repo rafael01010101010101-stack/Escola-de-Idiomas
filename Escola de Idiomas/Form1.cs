@@ -8,6 +8,11 @@ namespace Escola_de_Idiomas
 		AtualizarProfessor atualizarProfessor;
 		ExcluirAluno excluirAluno;
 		ExcluirProfessor excluirProfessor;
+		CadastrarFuncionario cadastrarFuncionario;
+		LoginFuncionario loginFuncionario;
+		Matricula matricula;
+		ConsultarMatricula ConsultarMatricula;
+		Notas notas;
 
 		public Form1()
 		{
@@ -59,5 +64,35 @@ namespace Escola_de_Idiomas
 			excluirProfessor = new ExcluirProfessor();
 			excluirProfessor.ShowDialog();
 		}// botão de excluir professor
+
+		private void button12_Click(object sender, EventArgs e)
+		{
+			cadastrarFuncionario = new CadastrarFuncionario();
+			cadastrarFuncionario.ShowDialog();
+		}// fim do cadastrar funcionario
+
+		private void button3_Click(object sender, EventArgs e)
+		{
+			loginFuncionario = new LoginFuncionario();
+			loginFuncionario.ShowDialog();
+		}
+
+		private void button4_Click(object sender, EventArgs e)
+		{
+			matricula = new Matricula();
+			matricula.ShowDialog();
+		}// botão de matricular aluno
+
+		private void button6_Click(object sender, EventArgs e)
+		{
+			ConsultarMatricula = new ConsultarMatricula();
+			ConsultarMatricula.ShowDialog();
+		}
+
+		private void button5_Click(object sender, EventArgs e)
+		{
+			notas = new Notas();
+			notas.ShowDialog();
+		}// botao pra área de notas
 	}
 }

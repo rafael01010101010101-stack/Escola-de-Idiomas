@@ -37,3 +37,14 @@ C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\D
 C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarProfessor.resources
 C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirAluno.resources
 C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirProfessor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarFuncionario.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.LoginFuncionario.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Matricula.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ConsultarMatricula.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AdiconarNotas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarNotas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirNotas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Notas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AdicionarCursos.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Cursos.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirCursos.resources
