@@ -17,7 +17,7 @@ namespace Escola_de_Idiomas
 		public decimal[] nota;
 		public DateTime[] dat;
 		public string[] observacao;
-		public int i;
+        public int i;
 		public int contar;
 		public string msg;
 
@@ -63,14 +63,14 @@ namespace Escola_de_Idiomas
 			this.dat = new DateTime[100];
 			this.observacao = new string[100];
 
-			//Preencher os vetores com valores padrões
-			for (i = 0; i < 100; i++)
+            //Preencher os vetores com valores padrões
+            for (i = 0; i < 100; i++)
 			{
 				this.codigo[i] = 0;
 				this.nota[i] = 0;
 				this.dat[i] = DateTime.MinValue;
 				this.observacao[i] = "";
-			}//fim do for
+            }//fim do for
 
 			//Executar o comando do SQL
 			MySqlCommand coletar = new MySqlCommand(query, this.conexao);
@@ -87,7 +87,7 @@ namespace Escola_de_Idiomas
 				this.nota[i] = Convert.ToDecimal(leitura["nota"] + "");
 				this.dat[i] = Convert.ToDateTime(leitura["dat"] + "");
 				this.observacao[i] = leitura["observacao"] + "";
-				i++;
+                i++;
 				this.contar++;//Informar quantos dados tem no banco
 			}//fim do while
 

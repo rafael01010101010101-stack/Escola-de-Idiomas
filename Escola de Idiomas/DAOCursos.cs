@@ -39,12 +39,12 @@ namespace Escola_de_Idiomas
 			}//fim do try_catch
 		}
 
-		public void InserirCursos(string nome, int cargaHoraria, double valor, int avaliacaoCodigo, int idiomaCodigo)
+		public void InserirCursos(string nome, int cargaHoraria, double valor)
 		{
 			try
 			{
-				this.dados = $"('', '{nome}', '{cargaHoraria}', '{valor}' '{avaliacao_Codigo}', '{idioma_Codigo}')";
-				this.comando = $"Insert into curso(codigo, nome, cargaHoraria, {avaliacaoCodigo}, {idiomaCodigo}) values{this.dados}";
+				this.dados = $"('', '{nome}', '{cargaHoraria}', '{valor}')";
+				this.comando = $"Insert into curso(codigo, nome, cargaHoraria) values{this.dados}";
 				//Inserir comando
 				MySqlCommand sql = new MySqlCommand(this.comando, this.conexao);
 				string resultado = "" + sql.ExecuteNonQuery();
@@ -121,6 +121,21 @@ namespace Escola_de_Idiomas
 			}//fim do while
 			leitura.Close();//Encerrando o processo de busca
 		}//fim do método
-	}
+
+        public string AtualizarCursos(int codigo, string campo, string novoDado)
+        {
+            try
+            {
+                string query = $"update curso set {campo} = '{novoDado}' where codigo = '{codigo}'";
+                MySqlCommand sql = new MySqlCommand(query, this.conexao);
+                string resultado = "" + sql.ExecuteNonQuery(); // comando de inserção no banco
+                return $"Atualizado com sucesso\n\n {resultado}";
+            }
+            catch (Exception erro)
+            {
+                return $"Algo deu errado\n\n {erro}";
+            }
+        }
+    }
 }
 

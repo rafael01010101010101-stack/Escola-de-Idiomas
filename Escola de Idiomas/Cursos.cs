@@ -10,78 +10,85 @@ using System.Windows.Forms;
 
 namespace Escola_de_Idiomas
 {
-	public partial class Cursos : Form
-	{
-		DAOCursos cursos;
-		AdicionarCursos adicionarCursos;
-		ExcluirCursos excluirCursos;
+    public partial class Cursos : Form
+    {
+        DAOCursos cursos;
+        AdicionarCursos adicionarCursos;
+        ExcluirCursos excluirCursos;
+        AtualizarCursos atualizarCursos;
 
-		public Cursos()
-		{
-			InitializeComponent();
-			this.cursos = new DAOCursos();
-			ChamarMetodo(dataGridView1);
-		}
+        public Cursos()
+        {
+            InitializeComponent();
+            this.cursos = new DAOCursos();
+            ChamarMetodo(dataGridView1);
+        }
 
-		public void ChamarMetodo(DataGridView datagrid)
-		{
-			ConfigurarDataGrid(datagrid);
-			NomeColunas(datagrid);
-			AdicionarDados(datagrid);
-		}
+        public void ChamarMetodo(DataGridView datagrid)
+        {
+            ConfigurarDataGrid(datagrid);
+            NomeColunas(datagrid);
+            AdicionarDados(datagrid);
+        }
 
-		public void NomeColunas(DataGridView dataGrid)
-		{
-			dataGrid.Columns[0].Name = "Código";
-			dataGrid.Columns[1].Name = "Nome";
-			dataGrid.Columns[2].Name = "CargaHoraria";
-			dataGrid.Columns[3].Name = "Valor";
-		}
+        public void NomeColunas(DataGridView dataGrid)
+        {
+            dataGrid.Columns[0].Name = "Código";
+            dataGrid.Columns[1].Name = "Nome";
+            dataGrid.Columns[2].Name = "CargaHoraria";
+            dataGrid.Columns[3].Name = "Valor";
+        }
 
-		public void ConfigurarDataGrid(DataGridView dataGrid)
-		{
-			dataGrid.AllowUserToAddRows = false;
-			dataGrid.AllowUserToDeleteRows = false;
-			dataGrid.AllowUserToResizeColumns = false;
-			dataGrid.AllowUserToResizeRows = false;
-			dataGrid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-			dataGrid.ColumnCount = 4;
-		}
+        public void ConfigurarDataGrid(DataGridView dataGrid)
+        {
+            dataGrid.AllowUserToAddRows = false;
+            dataGrid.AllowUserToDeleteRows = false;
+            dataGrid.AllowUserToResizeColumns = false;
+            dataGrid.AllowUserToResizeRows = false;
+            dataGrid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGrid.ColumnCount = 4;
+        }
 
-		public void AdicionarDados(DataGridView dataGrid)
-		{
-			this.cursos.PreencherVetor();
-			for (int i = 0; i < this.cursos.contar; i++)
-			{
-				dataGrid.Rows.Add(
-					this.cursos.codigo[i],
-					this.cursos.nome[i],
-					this.cursos.cargaHoraria[i],
-					this.cursos.valor[i]
-				);
-			}
-		}
+        public void AdicionarDados(DataGridView dataGrid)
+        {
+            this.cursos.PreencherVetor();
+            for (int i = 0; i < this.cursos.contar; i++)
+            {
+                dataGrid.Rows.Add(
+                    this.cursos.codigo[i],
+                    this.cursos.nome[i],
+                    this.cursos.cargaHoraria[i],
+                    this.cursos.valor[i]
+                );
+            }
+        }
 
-		public DataGridView retornarData()
-		{
-			return dataGridView1;
-		}
+        public DataGridView retornarData()
+        {
+            return dataGridView1;
+        }
 
-		private void button1_Click(object sender, EventArgs e)
-		{
-			adicionarCursos = new AdicionarCursos();
-			adicionarCursos.ShowDialog();
-		}// fim do botão adicionar cursos
+        private void button1_Click(object sender, EventArgs e)
+        {
+            adicionarCursos = new AdicionarCursos();
+            adicionarCursos.ShowDialog();
+        }// fim do botão adicionar cursos
 
-		private void button2_Click(object sender, EventArgs e)
-		{
-			excluirCursos = new ExcluirCursos();
-			excluirCursos.ShowDialog();
-		}// fim do botão excluir cursos
+        private void button2_Click(object sender, EventArgs e)
+        {
+            excluirCursos = new ExcluirCursos();
+            excluirCursos.ShowDialog();
+        }// fim do botão excluir cursos
 
-		private void Cursos_Load(object sender, EventArgs e)
-		{
+        private void Cursos_Load(object sender, EventArgs e)
+        {
 
-		}
-	}
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            atualizarCursos = new AtualizarCursos();
+            atualizarCursos.ShowDialog();
+        }// botao atualizar para atualizar os cursos
+    }
 }
