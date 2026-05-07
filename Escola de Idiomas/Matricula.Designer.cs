@@ -184,16 +184,18 @@
 			textBox6.Name = "textBox6";
 			textBox6.Size = new Size(247, 29);
 			textBox6.TabIndex = 13;
+			textBox6.TextChanged += textBox6_TextChanged;
 			// 
 			// label7
 			// 
 			label7.AutoSize = true;
 			label7.Font = new Font("Segoe UI", 10F);
-			label7.Location = new Point(28, 325);
+			label7.Location = new Point(93, 325);
 			label7.Name = "label7";
-			label7.Size = new Size(264, 19);
+			label7.Size = new Size(199, 19);
 			label7.TabIndex = 14;
-			label7.Text = "Codigo do curso que deseja se matricular:";
+			label7.Text = "Curso que deseja se matricular:";
+			label7.Click += label7_Click;
 			// 
 			// Matricula
 			// 

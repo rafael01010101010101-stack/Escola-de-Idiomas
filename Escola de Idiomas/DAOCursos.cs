@@ -43,8 +43,9 @@ namespace Escola_de_Idiomas
 		{
 			try
 			{
-				this.dados = $"('', '{nome}', '{cargaHoraria}', '{valor}')";
-				this.comando = $"Insert into curso(codigo, nome, cargaHoraria) values{this.dados}";
+				string valorFormatado = valor.ToString("\"F2\", System.Globalization.CultureInfo.InvariantCulture");
+				this.dados = $"('', '{nome}', '{cargaHoraria}', '{valorFormatado}')";
+				this.comando = $"Insert into curso(codigo, nome, cargaHoraria, valor) values{this.dados}";
 				//Inserir comando
 				MySqlCommand sql = new MySqlCommand(this.comando, this.conexao);
 				string resultado = "" + sql.ExecuteNonQuery();
@@ -115,7 +116,7 @@ namespace Escola_de_Idiomas
 				this.codigo[i] = Convert.ToInt32(leitura["codigo"]);
 				this.nome[i] = leitura["nome"] + "";
 				this.cargaHoraria[i] = Convert.ToInt32(leitura["cargaHoraria"] + "");
-				this.valor[i] = Convert.ToInt64(leitura["valor"] + "");
+				this.valor[i]        = double.Parse(leitura["valor"].ToString(),System.Globalization.CultureInfo.InvariantCulture);
 				i++;
 				this.contar++;
 			}//fim do while

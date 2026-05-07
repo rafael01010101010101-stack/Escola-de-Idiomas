@@ -52,7 +52,7 @@ namespace Escola_de_Idiomas
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			if ((textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "" || textBox4.Text == "" || textBox5.Text == ""))
+			if ((textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "" || textBox4.Text == "" || textBox5.Text == "" || textBox6.Text == ""))
 			{
 				MessageBox.Show("Preencha todos os campos!");
 			}
@@ -63,9 +63,10 @@ namespace Escola_de_Idiomas
 				string email = textBox3.Text;
 				string telefone = textBox4.Text;
 				DateTime dataNascimento = DateTime.Parse(textBox5.Text);
+				string cursoDesejado = textBox6.Text;
 				//inserir esses dados no banco
 
-				this.aluno.InserirMatricula(nome, cpf, email, telefone, dataNascimento);
+				this.aluno.InserirMatricula(nome, cpf, email, telefone, dataNascimento, cursoDesejado);
 				//limpar os campos
 				LimparCampos();
 			}// fim do botão matricular
@@ -77,6 +78,7 @@ namespace Escola_de_Idiomas
 			textBox3.Text = "";
 			textBox4.Text = "";
 			textBox5.Text = "";
+			textBox6.Text = "";
 		}//fim do método limpar
 
 		private void button2_Click(object sender, EventArgs e)
@@ -84,5 +86,15 @@ namespace Escola_de_Idiomas
 			cursos = new Cursos();
 			cursos.ShowDialog();
 		}// fim do botão selecionar curso
+
+		private void label7_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void textBox6_TextChanged(object sender, EventArgs e)
+		{
+
+		}// fim do campo curso desejado do aluno
 	}
 }  

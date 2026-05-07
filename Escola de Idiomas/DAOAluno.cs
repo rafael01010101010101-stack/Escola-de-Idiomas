@@ -20,6 +20,7 @@ namespace Escola_de_Idiomas
 		public string[] email;
 		public string[] telefone;
 		public DateTime[] dtDeNascimento;
+		public string[] cursoDesejado;
 		public int i;
 		public int contar;
 		public string msg;
@@ -55,13 +56,13 @@ namespace Escola_de_Idiomas
 			}
 		}//fim do inserir
 
-		public void InserirMatricula(string nome, string cpf, string email, string telefone, DateTime dataNascimento)
+		public void InserirMatricula(string nome, string cpf, string email, string telefone, DateTime dataNascimento, string cursoDesejado)
 		{
 			try
 			{
 				string dataFormatada = dataNascimento.ToString("yyyy-MM-dd");
-				this.dados = $"('', '{nome}', '{cpf}', '{email}', '{telefone}', '{dataFormatada}')";
-				this.comando = $"Insert into matricula(codigo, nome, cpf, email, telefone, dtDeNascimento) values{this.dados}";
+				this.dados = $"('', '{nome}', '{cpf}', '{email}', '{telefone}', '{dataFormatada}', '{cursoDesejado}')";
+				this.comando = $"Insert into matricula(codigo, nome, cpf, email, telefone, dtDeNascimento, cursoDesejado) values{this.dados}";
 				//Inserir comando
 				MySqlCommand sql = new MySqlCommand(this.comando, this.conexao);
 				string resultado = "" + sql.ExecuteNonQuery();
@@ -83,7 +84,7 @@ namespace Escola_de_Idiomas
 			this.email = new string[100];
 			this.telefone = new string[100];
 			this.dtDeNascimento = new DateTime[100];
-
+			this.cursoDesejado = new string[100];
 
 
 			//Preencher os vetores com valores padrões
@@ -95,7 +96,7 @@ namespace Escola_de_Idiomas
 				this.email[i] = "";
 				this.telefone[i] = "";
 				this.dtDeNascimento[i] = DateTime.MinValue;
-
+				this.cursoDesejado[i] = "";
 
 			}//fim do for
 
@@ -116,6 +117,7 @@ namespace Escola_de_Idiomas
 				this.email[i] = leitura["email"] + "";
 				this.telefone[i] = leitura["telefone"] + "";
 				this.dtDeNascimento[i] = Convert.ToDateTime(leitura["dtDeNascimento"] + "");
+				this.cursoDesejado[i] = leitura["cursoDesejado"] + "";
 				i++;
 				this.contar++;
 			}//fim do while

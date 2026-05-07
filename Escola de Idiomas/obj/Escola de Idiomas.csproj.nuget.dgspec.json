@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Escola de Idiomas.csproj": {}
+    "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Escola de Idiomas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Escola de Idiomas.csproj": {
+    "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Escola de Idiomas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Escola de Idiomas.csproj",
+        "projectUniqueName": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Escola de Idiomas.csproj",
         "projectName": "Escola de Idiomas",
-        "projectPath": "C:\\Users\\rafae\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Escola de Idiomas.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\obj\\",
+        "projectPath": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Escola de Idiomas.csproj",
+        "packagesPath": "C:\\Users\\rafael.balmeida3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafael.balmeida3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -75,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
