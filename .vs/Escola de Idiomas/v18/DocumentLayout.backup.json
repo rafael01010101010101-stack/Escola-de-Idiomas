@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daocursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daocursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\notassalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\notassalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\salaprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -139,10 +151,6 @@
       "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daosalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daocursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daocursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -153,10 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -239,10 +243,6 @@
       "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daoprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daoprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -270,7 +270,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 40,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -278,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CadastrarAluno.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarAluno.cs",
@@ -290,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AtualizarSalas.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarSalas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarSalas.cs",
@@ -302,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "AtualizarNotas.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarNotas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarNotas.cs",
@@ -314,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "AtualizarCursos.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarCursos.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarCursos.cs",
@@ -326,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Aluno.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Aluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Aluno.cs",
@@ -338,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CadastrarCursos.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarCursos.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarCursos.cs",
@@ -350,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CadastrarNotas.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarNotas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarNotas.cs",
@@ -362,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CadastrarProfessor.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarProfessor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarProfessor.cs",
@@ -374,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CadastrarSalas.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarSalas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarSalas.cs",
@@ -386,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CadastroDiretor.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastroDiretor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastroDiretor.cs",
@@ -398,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "CursoAluno.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CursoAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CursoAluno.cs",
@@ -410,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Cursos.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Cursos.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Cursos.cs",
@@ -422,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "DAOAluno.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\DAOAluno.cs",
@@ -434,20 +434,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 0,
               "Title": "DAOCursos.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOCursos.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\DAOCursos.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOCursos.cs",
               "RelativeToolTip": "Escola de Idiomas\\DAOCursos.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T12:19:18.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "DAODiretor.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAODiretor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\DAODiretor.cs",
@@ -460,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 1,
               "Title": "DAOMatricula.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOMatricula.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\DAOMatricula.cs",
@@ -468,11 +468,12 @@
               "RelativeToolTip": "Escola de Idiomas\\DAOMatricula.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAACTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T23:36:36.153Z"
+              "WhenOpened": "2026-05-19T23:36:36.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "DAONotas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAONotas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\DAONotas.cs",
@@ -497,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "DAOSalas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOSalas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\DAOSalas.cs",
@@ -510,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Diretor.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Diretor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Diretor.cs",
@@ -522,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ExcluirCurso.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirCurso.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirCurso.cs",
@@ -534,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "ExcluirNotas.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirNotas.cs",
@@ -545,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ExcluirSalas.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirSalas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirSalas.cs",
@@ -557,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Form1.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Form1.cs",
@@ -569,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Matricula.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Matricula.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Matricula.cs",
@@ -581,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "MenuAluno.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\MenuAluno.cs",
@@ -593,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "MenuDiretor.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuDiretor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\MenuDiretor.cs",
@@ -605,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "NotaAluno.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotaAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\NotaAluno.cs",
@@ -617,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "NotasProfessor.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasProfessor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\NotasProfessor.cs",
@@ -629,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "NotasSalas.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasSalas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\NotasSalas.cs",
@@ -641,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Professor.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Professor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Professor.cs",
@@ -653,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Program.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Program.cs",
@@ -665,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "SalaAluno.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\SalaAluno.cs",
@@ -676,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "SalaProfessor.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaProfessor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\SalaProfessor.cs",
@@ -688,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Salas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Salas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Salas.cs",
@@ -701,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "SalaProfessor.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaProfessor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\SalaProfessor.cs",
@@ -714,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Salas.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Salas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Salas.cs",
@@ -726,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "SalaAluno.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\SalaAluno.cs",
@@ -738,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Professor.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Professor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Professor.cs",
@@ -751,20 +752,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "NotasSalas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasSalas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\NotasSalas.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasSalas.cs",
               "RelativeToolTip": "Escola de Idiomas\\NotasSalas.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAnwD0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T18:36:14.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "NotasProfessor.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasProfessor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\NotasProfessor.cs",
@@ -777,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "NotaAluno.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotaAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\NotaAluno.cs",
@@ -802,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "MenuAluno.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\MenuAluno.cs",
@@ -814,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Matricula.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Matricula.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Matricula.cs",
@@ -826,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "ExcluirSalas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirSalas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirSalas.cs",
@@ -838,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "ExcluirNotas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirNotas.cs",
@@ -850,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "ExcluirCurso.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirCurso.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirCurso.cs",
@@ -862,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Diretor.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Diretor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Diretor.cs",
@@ -875,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "CadastrarProfessor.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarProfessor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarProfessor.cs",
@@ -887,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Cursos.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Cursos.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Cursos.cs",
@@ -900,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "CursoAluno.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CursoAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CursoAluno.cs",
@@ -912,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "CadastroDiretor.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastroDiretor.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastroDiretor.cs",
@@ -924,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "CadastrarSalas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarSalas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarSalas.cs",
@@ -936,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "AtualizarNotas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarNotas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarNotas.cs",
@@ -949,7 +950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "CadastrarNotas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarNotas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarNotas.cs",
@@ -961,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "CadastrarCursos.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarCursos.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarCursos.cs",
@@ -973,7 +974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "CadastrarAluno.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarAluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarAluno.cs",
@@ -985,7 +986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "AtualizarSalas.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarSalas.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarSalas.cs",
@@ -998,20 +999,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 2,
               "Title": "AtualizarCursos.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarCursos.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarCursos.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarCursos.cs",
               "RelativeToolTip": "Escola de Idiomas\\AtualizarCursos.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAA2wE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-26T23:12:05.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Form1.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Form1.cs",
@@ -1023,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Aluno.cs",
               "RelativeDocumentMoniker": "Escola de Idiomas\\Aluno.cs",
